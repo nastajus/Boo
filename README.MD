@@ -15,8 +15,6 @@ Executes. Shows tracer lines for debugging.
 Planned to expand into having a way to launch the Boos at the Bill Blaster, and to compensate the Blaster would have a significantly larger amount of hit points.
 
 
-![readme image][1]
 ![readme image][2]
 
-  [1]: https://raw.githubusercontent.com/nastajus/Boo/master/README1.png
-  [1]: https://raw.githubusercontent.com/nastajus/Boo/master/README2.png
+  [2]: https://raw.githubusercontent.com/nastajus/Boo/master/README2.png
